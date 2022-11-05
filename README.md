@@ -1,22 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>barbearia alura</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
+Logo
+Projeto   |    Layout   |    Tecnologias   |    Aprendizados   |   
+
+🚀 Projeto
+Projeto desenvolvido no decorrer de 4 cursos ministrado pelo instrutor Pedro Marins da plataforma Alura Cursos Online, onde ao final do curso desenvolvemos um site de barbearia. Afim de colocar em prática conhecimentos de javascript adquiridos no curso da geek university pude aplicar animação ao scroll no projeto.
+
+🎨 Layout
+Barbearia Alura
 
 
- <center><img id="banner.jpg" src="banner.jpg"> </center>
-		<center><h1>Sobre a Barbearia Alura</h1></center>
-</p>Localizada no coração cidade, a <strong> Barbearia Alura </strong>  traz para o mercado o que há de melhor para o seu cabelo e barba.<p>
-<p>Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.<p>
-<p> <i>Nossa missão é "Proporcionar autoestima e qualidade de vida aos clientes".</i> <p>
-<p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.<p>
-<p>O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.<p>
-
-</body>
-
-</html>
+💻 Tecnologias
+HTML
+CSS
+Javascript
+📚 Aprendizados
+Menu nav
+Responsividade
+Boas praticas de programação
