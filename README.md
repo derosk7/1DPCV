@@ -6,8 +6,7 @@ Projeto   |    Layout   |    Tecnologias   |    Aprendizados   |
 🚀 Projeto
 Projeto desenvolvido no decorrer de 4 cursos ministrado pelo instrutor Pedro Marins da plataforma Alura Cursos Online, onde ao final do curso desenvolvemos um site de barbearia. Afim de colocar em prática conhecimentos de javascript adquiridos no curso da geek university pude aplicar animação ao scroll no projeto
 
-
-![Uploading bc5f5d496a9cf2a7bd6038541b4501f2.gif…]()
+[Uploading bc5f5d496a9cf2a7bd6038541b4501f2.gif…]()
 
 💻 Tecnologias
 HTML
